@@ -17,9 +17,9 @@
   
   * shp_LV95_LN02
   
-  swissNAMES3D_PKT.dbf / 
+      swissNAMES3D_PKT.dbf / 
   
-  swissNAMES3D_PKT.prj / 
+      swissNAMES3D_PKT.prj / 
   
   swissNAMES3D_PKT.shp / 
   
@@ -39,14 +39,14 @@
   * Woche 04/20: kgkjgk jgkjgkjgkj gkjhgkjhg kjhhh jhhjj ljbj hhj khbjk jhh
   
   * Woche '5/20: kgkjgk jgkjgkjgkj gkjhgkjhg kjhhh jhhjj ljbj hhj khbjk jhh
+  
+  
 
 
 
 
 
   
-  
-  kkhkjkh
 * **je nach gewählter Variante 1,2 oder 3: Endprodukt, Skizze des weiteren**
   sddgdh 
 * **Vorgehens oder Protokoll des Scheiterns**
@@ -55,7 +55,7 @@
   
   
   
-## cas-ddj-abschlussarbeit
+## jjhjjkgjkjj
 hhh jhhjj ljbj hhj khbjk jhhjk g kj jkjjkgkjgk jgkjgkjgkj gkjhgkjhg kjhhh jhhjj ljbj hhj khbjk jhhjk g kj jkjjkgkjgk jgkjgkjgkj gkjhgkjhg kjhhh jhhjj ljbj hhj khbjk jhhjk g kj jkjjkgkjgk jgkjgkjgkj gkjhgkjhg kjhhh jhhjj ljbj hhj khbjk jhhjk g kj
 
 jkjjkgkjgk jgkjgkjgkj gkjhgkjhg kjhhh jhhjj ljbj hhj khbjk jhhjk g kj jkjjkgkjgk jgkjgkjgkj gkjhgkjhg kjhhh jhhjj ljbj hhj khbjk jhhjk g kj jkjjkgkjgk jgkjgkjgkj gkjhgkjhg kjhhh jhhjj ljbj hhj khbjk jhhjk g kj jkjjkgkjgk jgkjgkjgkj gkjhgkjhg kjhhh jhhjj ljbj hhj khbjk jhhjk g kj jkjjkgkjgk jgkjgkjgkj gkjhgkjhg kjhhh jhhjj ljbj hhj khbjk jhhjk g kj jkjjkgkjgk jgkjgkjgkj gkjhgkjhg kjhhh jhhjj ljbj hhj khbjk jhhjk g kj jkjjkgkjgk jgkjgkjgkj gkjhgkjhg kj
