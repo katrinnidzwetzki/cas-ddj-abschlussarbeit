@@ -24,11 +24,11 @@
   
       Benötigte Dateien:
   
-      swissNAMES3D_PKT.dbf / 
+      swissNAMES3D_PKT.dbf
   
-      swissNAMES3D_PKT.prj / 
+      swissNAMES3D_PKT.prj
   
-      swissNAMES3D_PKT.shp / 
+      swissNAMES3D_PKT.shp
   
       swissNAMES3D_PKT.shx
   
@@ -41,7 +41,7 @@
   
   * Woche 02/20: Letzter Kurstag. Repo für Abschluss ertstellen. Themen/Daten ansehen.
   
-  * Woche 03/20: Versuche Scraping **ortsnamen.ch**. Neue Daten vin Swisstopo.
+  * Woche 03/20: **ortsnamen.ch**. Versuche Scraping. Neue Daten von Swisstopo.
   
   * Woche 04/20: Bessprechung mit Brnaby. jgkjgkjgkj gkjhgkjhg kjhhh jhhjj ljbj hhj khbjk jhh
   
