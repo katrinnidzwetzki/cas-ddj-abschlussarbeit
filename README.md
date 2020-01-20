@@ -1,9 +1,10 @@
 # cas-ddj-abschlussarbeit
 
 * Ausgangsthese
-*  hhfhhg
-*Einschätzung von Aufwand/Ertrag vor Beginn des Projektes
-*Bezeichnung des Knackpunkts des Projektes
+  hhfhhg
+* Einschätzung von Aufwand/Ertrag vor Beginn des Projektes
+  *Bezeichnung des Knackpunkts des Projektes
+  hvvhvv
 *Kurze Zusammenfassung des Gesprächs mit einer Briefing Person
 *Datensatz (auch bereits strukturierte Daten können verwendet werden)
 *Programmiercode
