@@ -9,13 +9,13 @@
 * **Kurze Zusammenfassung des Gesprächs mit einer Briefing Person**
   sdttttjssj
 * **Datensatz**
-  *https://shop.swisstopo.admin.ch/de/products/landscape/names3D
+  * https://shop.swisstopo.admin.ch/de/products/landscape/names3D
   
-  *hhjkhjh
+  * hhjkhjh
   
-  *mbmbm,
+  * mbmbm,
   
-  *jjkj
+  * jjkj
   
   
 * **Programmiercode** ortsnamen_swisstopo_geopandas
