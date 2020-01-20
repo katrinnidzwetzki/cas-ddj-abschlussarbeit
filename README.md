@@ -1,9 +1,9 @@
 # cas-ddj-abschlussarbeit
 
-* **Ausgangsthese
+* **Ausgangsthese**
   hhfhhg
 
-* **Einschätzung von Aufwand/Ertrag vor Beginn des Projektes
+* **Einschätzung von Aufwand/Ertrag vor Beginn des Projektes**
   hvvhvv
 * Bezeichnung des Knackpunkts des Projektes
   hvvhvv
