@@ -11,11 +11,13 @@
 * **Datensatz**
   * https://shop.swisstopo.admin.ch/de/products/landscape/names3D
   
-  * hhjkhjh
+  * Entpacken
   
-  * mbmbm,
+  * swissNAMES3D_LV95
   
-  * jjkj
+  * shp_LV95_LN02
+  
+  * swissNAMES3D_PKT.dbf / swissNAMES3D_PKT.prj / swissNAMES3D_PKT.shp / swissNAMES3D_PKT.shx
   
   
 * **Programmiercode** ortsnamen_swisstopo_geopandas
