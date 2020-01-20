@@ -7,6 +7,7 @@
 * **Bezeichnung des Knackpunkts des Projektes**
   hvvhvv
 * **Kurze Zusammenfassung des Gesprächs mit einer Briefing Person**
+  sdttttjssj
 * **Datensatz**
   ssdsdsdgsdgsdgsg
 * **Programmiercode** ortsnamen_swisstopo_geopandas
@@ -16,3 +17,9 @@
   sddgdh 
 * **Vorgehens oder Protokoll des Scheiterns**
   xhffhdfhdfdfjdh
+  
+  
+  
+  
+  
+  jxvlklkjlkdvlkjlkjlxvkj
