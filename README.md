@@ -1,15 +1,19 @@
 # cas-ddj-abschlussarbeit
 
 * **Ausgangsthese**
-  hhfhhg
+  Interessante Website **ortsnamen.ch**. Das Thema könnte von allgemeinem Interesse sein. Ich möchte Häufigkeiten und Verteilungen ansehen. 
+  
 * **Einschätzung von Aufwand/Ertrag vor Beginn des Projektes**
-  hvvhvv
+  ????????? Kann ich nicht abschätzen.
+  
 * **Bezeichnung des Knackpunkts des Projektes**
-  hvvhvv
+  Technische Herausforderungen.
+  
 * **Kurze Zusammenfassung des Gesprächs mit einer Briefing Person**
-  sdttttjssj
+  sdttttjssj ?????????
+  
 * **Datensatz**
-  Bitte herunterladen. Der Datensatz ist zu gross, um ihn auf Github zu speichern.
+  Bitte herunterladen. Der Datensatz ist zu gross, um ihn im Repository zu speichern.
   * https://shop.swisstopo.admin.ch/de/products/landscape/names3D
   
   * Entpacken
@@ -17,6 +21,8 @@
   * swissNAMES3D_LV95
   
   * shp_LV95_LN02
+  
+      Benötigte Dateien:
   
       swissNAMES3D_PKT.dbf / 
   
@@ -28,6 +34,7 @@
   
   
 * **Programmiercode** ortsnamen_swisstopo_geopandas
+
 * **Arbeitsprotokoll (Was hast du wann weshalb gemacht?)**
   
   * Woche 01/20: Themen/Daten ansehen.
@@ -44,19 +51,9 @@
   
   * Woche 7/20: Abgabe
 
-
   
-  
-
-
-
-
-
-  
-* **je nach gewählter Variante 1,2 oder 3: Endprodukt, Skizze des weiteren**
-  sddgdh 
-* **Vorgehens oder Protokoll des Scheiterns**
-  xhffhdfhdfdfjdh
+* **Endprodukt, Skizze des Vorgehens oder Protokoll des Scheiterns**
+  Zeitaufwand gross. Ich wusste, dass ich viel Zeit benötige. Lernprozess. Technisches Verständnis für meinen Beruf und weitere Projekte.
   
   
   
