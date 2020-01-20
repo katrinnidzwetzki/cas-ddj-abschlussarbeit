@@ -9,6 +9,7 @@
 * **Kurze Zusammenfassung des Gesprächs mit einer Briefing Person**
   sdttttjssj
 * **Datensatz**
+  Bitte herunterladen. Der Datensatz ist zu gross, um ihn auf Github zu speichern.
   * https://shop.swisstopo.admin.ch/de/products/landscape/names3D
   
   * Entpacken
@@ -21,24 +22,29 @@
   
       swissNAMES3D_PKT.prj / 
   
-  swissNAMES3D_PKT.shp / 
+      swissNAMES3D_PKT.shp / 
   
-  swissNAMES3D_PKT.shx
+      swissNAMES3D_PKT.shx
   
   
 * **Programmiercode** ortsnamen_swisstopo_geopandas
 * **Arbeitsprotokoll (Was hast du wann weshalb gemacht?)**
-  * Woche 52/19: kgkjgk jgkjgkjgkj gkjhgkjhg kjhhh jhhjj ljbj hhj khbjk jhh
   
-  * Woche 01/20: kgkjgk jgkjgkjgkj gkjhgkjhg kjhhh jhhjj ljbj hhj khbjk jhh
+  * Woche 01/20: Themen/Daten ansehen.
   
-  * Woche 02/20: kgkjgk jgkjgkjgkj gkjhgkjhg kjhhh jhhjj ljbj hhj khbjk jhh
+  * Woche 02/20: Letzter Kurstag. Repo für Abschluss ertstellen. Themen/Daten ansehen.
   
-  * Woche 03/20: kgkjgk jgkjgkjgkj gkjhgkjhg kjhhh jhhjj ljbj hhj khbjk jhh
+  * Woche 03/20: Versuche Scraping **ortsnamen.ch**. Neue Daten vin Swisstopo.
   
-  * Woche 04/20: kgkjgk jgkjgkjgkj gkjhgkjhg kjhhh jhhjj ljbj hhj khbjk jhh
+  * Woche 04/20: Bessprechung mit Brnaby. jgkjgkjgkj gkjhgkjhg kjhhh jhhjj ljbj hhj khbjk jhh
   
-  * Woche '5/20: kgkjgk jgkjgkjgkj gkjhgkjhg kjhhh jhhjj ljbj hhj khbjk jhh
+  * Woche 5/20: kgkjgk jgkjgkjgkj gkjhgkjhg kjhhh jhhjj ljbj hhj khbjk jhh
+  
+  * Woche 6/20: kgkjgk jgkjgkjgkj gkjhgkjhg kjhhh jhhjj ljbj hhj khbjk jhh
+  
+  * Woche 7/20: Abgabe
+
+
   
   
 
