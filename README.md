@@ -28,6 +28,24 @@
   
 * **Programmiercode** ortsnamen_swisstopo_geopandas
 * **Arbeitsprotokoll (Was hast du wann weshalb gemacht?)**
+  * Woche 52/19: kgkjgk jgkjgkjgkj gkjhgkjhg kjhhh jhhjj ljbj hhj khbjk jhh
+  
+  * Woche 01/20: kgkjgk jgkjgkjgkj gkjhgkjhg kjhhh jhhjj ljbj hhj khbjk jhh
+  
+  * Woche 02/20: kgkjgk jgkjgkjgkj gkjhgkjhg kjhhh jhhjj ljbj hhj khbjk jhh
+  
+  * Woche 03/20: kgkjgk jgkjgkjgkj gkjhgkjhg kjhhh jhhjj ljbj hhj khbjk jhh
+  
+  * Woche 04/20: kgkjgk jgkjgkjgkj gkjhgkjhg kjhhh jhhjj ljbj hhj khbjk jhh
+  
+  * Woche '5/20: kgkjgk jgkjgkjgkj gkjhgkjhg kjhhh jhhjj ljbj hhj khbjk jhh
+
+
+
+
+
+  
+  
   kkhkjkh
 * **je nach gewählter Variante 1,2 oder 3: Endprodukt, Skizze des weiteren**
   sddgdh 
