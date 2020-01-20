@@ -17,7 +17,13 @@
   
   * shp_LV95_LN02
   
-  * swissNAMES3D_PKT.dbf / swissNAMES3D_PKT.prj / swissNAMES3D_PKT.shp / swissNAMES3D_PKT.shx
+  swissNAMES3D_PKT.dbf / 
+  
+  swissNAMES3D_PKT.prj / 
+  
+  swissNAMES3D_PKT.shp / 
+  
+  swissNAMES3D_PKT.shx
   
   
 * **Programmiercode** ortsnamen_swisstopo_geopandas
