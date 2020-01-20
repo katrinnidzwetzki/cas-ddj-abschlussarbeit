@@ -1,10 +1,10 @@
 # cas-ddj-abschlussarbeit
 
 * **Ausgangsthese**
-  Interessante Website **ortsnamen.ch**. Das Thema könnte von allgemeinem Interesse sein. Ich möchte Häufigkeiten und Verteilungen ansehen. 
+  Spannende Website **ortsnamen.ch**. Das Thema könnte von allgemeinem Interesse sein. Ich möchte Häufigkeiten und Verteilungen ansehen. 
   
 * **Einschätzung von Aufwand/Ertrag vor Beginn des Projektes**
-  ????????? Kann ich nicht abschätzen.
+  ????????? (Kann ich nicht abschätzen.)  Für mich ist der Aufwand gross. Lernen lernen lernen
   
 * **Bezeichnung des Knackpunkts des Projektes**
   Technische Herausforderungen.
@@ -41,7 +41,7 @@
   
   * Woche 02/20: Letzter Kurstag. Repo für Abschluss ertstellen. Themen/Daten ansehen.
   
-  * Woche 03/20: **ortsnamen.ch**. Versuche Scraping. Neue Daten von Swisstopo.
+  * Woche 03/20: **ortsnamen.ch**. Versuche, die Daten zu scrapen. Neue Daten von Swisstopo.
   
   * Woche 04/20: Bessprechung mit Brnaby. jgkjgkjgkj gkjhgkjhg kjhhh jhhjj ljbj hhj khbjk jhh
   
