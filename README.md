@@ -13,7 +13,7 @@
   sdttttjssj ?????????
   
 * **Datensatz**
-  Bitte herunterladen. Der Datensatz ist zu gross, um ihn im Repository zu speichern.
+  * *Bitte herunterladen. Der Datensatz ist zu gross, um ihn im Repository zu speichern.* *
   * https://shop.swisstopo.admin.ch/de/products/landscape/names3D
   
   * Entpacken
