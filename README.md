@@ -14,6 +14,9 @@
   
 * **Datensatz** 
     _Bitte herunterladen. Der Datensatz ist zu gross, um ihn im Repository zu speichern._
+    
+  * https://drive.google.com/open?id=1kCYv7qOFqk_hldi7rKaBkZovVTyndVfP oder
+    
   * https://shop.swisstopo.admin.ch/de/products/landscape/names3D
   
   * Entpacken
