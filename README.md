@@ -46,7 +46,7 @@
   
   * Woche 03/20: **ortsnamen.ch**. Versuche, die Daten zu scrapen. Neue Daten von Swisstopo.
   
-  * Woche 04/20: Bessprechung mit Brnaby. jgkjgkjgkj gkjhgkjhg kjhhh jhhjj ljbj hhj khbjk jhh
+  * Woche 04/20: Bessprechung mit Barnaby wegen grosser Datenmenge und Zusammenarbeit mit Journalisten. Exploring and plotting.
   
   * Woche 5/20: kgkjgk jgkjgkjgkj gkjhgkjhg kjhhh jhhjj ljbj hhj khbjk jhh
   
