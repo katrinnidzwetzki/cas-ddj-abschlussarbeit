@@ -1,6 +1,6 @@
 # cas-ddj-abschlussarbeit
 
-* **Ausgangsidee**
+* **Idee**
   Spannende Website **ortsnamen.ch**. Das Thema könnte von allgemeinem Interesse sein. Ich möchte Häufigkeiten und Verteilungen ansehen. 
   
 * **Ausgangsthese**
