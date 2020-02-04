@@ -3,7 +3,7 @@
 * **Ausgangsidee**
   Spannende Website **ortsnamen.ch**. Das Thema könnte von allgemeinem Interesse sein. Ich möchte Häufigkeiten und Verteilungen ansehen. 
   
-  * **Ausgangsthese**
+* **Ausgangsthese**
   Namen von Heiligen finden, auf Häufigkeit/Seltenheit, Männer/Frauen etc. untersuchen. "Top 10" zusammenstellen. Mit Geodaten sichbar machen.
   
 * **Einschätzung von Aufwand/Ertrag vor Beginn des Projektes**
@@ -13,7 +13,8 @@
   Technische Herausforderungen.
   
 * **Kurze Zusammenfassung des Gesprächs mit einer Briefing Person**
-  Zusammenarbeit mit Thomas Widmer, Schweizer Familie
+  Thomas Widmer, Schweizer Familie
+  Auswertung von Heilgennamen bei Orts-, Flur-, Gebäudenamen etc. Die beliebtesten, häufigsten, seltensten Namen als Liste, Dastellung auf Karte. Kleine Geschichte in der Kategorie "Unnützes Wissen".
   
 * **Datensatz** 
     _Bitte herunterladen. Der Datensatz ist zu gross, um ihn im Repository zu speichern._
@@ -47,11 +48,11 @@
   
   * Woche 02/20: Letzter Kurstag. Repo für Abschluss ertstellen. Daten ansehen / Themen überlegen.
   
-  * Woche 03/20: **ortsnamen.ch**. Verschiedene Versuche, die Daten zu scrapen. Gescheitert. Mit meinem Wissensstand zu kompliziert, wenn überhaupt möglich. Neue Daten von Swisstopo, Datensatz heruntergeladen.
+  * Woche 03/20: **ortsnamen.ch**. Verschiedene Versuche, die Daten zu scrapen. Gescheitert. Für meinem Wissensstand zu kompliziert, wenn überhaupt möglich. Neue Daten von Swisstopo, Datensatz heruntergeladen.
   
-  * Woche 04/20: Besprechung mit Barnaby wegen grosser Datenmenge und Zusammenarbeit mit Journalisten. Exploring and plotting.
+  * Woche 04/20: Besprechung mit Barnaby wegen grosser Datenmenge und Zusammenarbeit mit Journalisten. Exploring, plotting.
   
-  * Woche 5/20: Besprechung Thomas Widmer, Festlegung Thema "Heligennamen". Exploring and plotting.
+  * Woche 5/20: Besprechung Thomas Widmer, Festlegung Thema "Heligennamen". Exploring, plotting.
   
   * Woche 6/20: Besprechung Thomas Widmer, Daten ungeeignet. Dokumentation des Projekts.
   
