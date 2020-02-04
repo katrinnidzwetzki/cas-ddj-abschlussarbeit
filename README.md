@@ -1,7 +1,7 @@
 # cas-ddj-abschlussarbeit
 
 * **Idee**
-  Spannende Website **ortsnamen.ch**. Das Thema könnte von allgemeinem Interesse sein. Ich möchte Häufigkeiten und Verteilungen ansehen. 
+  Spannende Website **ortsnamen.ch**. Mit den Daten könnte man ein Thema entwickeln, das von allgemeinem Interesse sein kann. Ich möchte Häufigkeiten und Verteilungen ansehen. 
   
 * **Ausgangsthese**
   Namen von Heiligen finden, auf Häufigkeit/Seltenheit, Männer/Frauen etc. untersuchen. "Top 10" zusammenstellen. Mit Geodaten sichbar machen.
@@ -13,7 +13,7 @@
   Technische Herausforderungen.
   
 * **Kurze Zusammenfassung des Gesprächs mit einer Briefing Person**
-  Thomas Widmer, Schweizer Familie
+  _Thomas Widmer, Schweizer Familie_
   Auswertung von Heilgennamen bei Orts-, Flur-, Gebäudenamen etc. Die beliebtesten, häufigsten, seltensten Namen als Liste, Dastellung auf Karte. Kleine Geschichte in der Kategorie "Unnützes Wissen".
   
 * **Datensatz** 
@@ -42,21 +42,21 @@
   
 * **Programmiercode** xxxxxxxxxxxxxx xxxxxxxx xxxxxxxxxxxx
 
-* **Arbeitsprotokoll (Nicht fulltime) Was hast du wann weshalb gemacht?**
+* **Arbeitsprotokoll (Nicht fulltime)**
   
   * Woche 01/20: Daten ansehen / Themen überlegen.
   
   * Woche 02/20: Letzter Kurstag. Repo für Abschluss ertstellen. Daten ansehen / Themen überlegen.
   
-  * Woche 03/20: **ortsnamen.ch**. Verschiedene Versuche, die Daten zu scrapen. Gescheitert. Für meinem Wissensstand zu kompliziert, wenn überhaupt möglich. Neue Daten von Swisstopo, Datensatz heruntergeladen.
+  * Woche 03/20: **ortsnamen.ch**: Verschiedene Versuche, die Daten zu scrapen. Gescheitert. Für meinem Wissensstand zu kompliziert, wenn überhaupt möglich. Neue Daten von **Swisstopo**, Datensatz heruntergeladen.
   
   * Woche 04/20: Besprechung mit Barnaby wegen grosser Datenmenge und Zusammenarbeit mit Journalisten. Exploring, plotting.
   
-  * Woche 5/20: Besprechung Thomas Widmer, Festlegung Thema "Heligennamen". Exploring, plotting.
+  * Woche 05/20: Besprechung Thomas Widmer, Festlegung Thema "Heligennamen". Exploring, plotting.
   
-  * Woche 6/20: Besprechung Thomas Widmer, Daten ungeeignet. Dokumentation des Projekts.
+  * Woche 06/20: Besprechung Thomas Widmer, Daten ungeeignet. Dokumentation des Projekts.
   
-  * Woche 7/20: Dokumentation des Projekts. Abgabe.
+  * Woche 07/20: Dokumentation des Projekts. Abgabe.
 
   
 * **Endprodukt, Skizze des Vorgehens oder Protokoll des Scheiterns**
