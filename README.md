@@ -1,16 +1,20 @@
 # cas-ddj-abschlussarbeit
 
+* **Idee**
+  Spannende Website **ortsnamen.ch**. Mit den Daten könnte man ein Thema entwickeln, das von allgemeinem Interesse sein kann. Ich möchte Häufigkeiten und Verteilungen ansehen. 
+  
 * **Ausgangsthese**
-  Spannende Website **ortsnamen.ch**. Das Thema könnte von allgemeinem Interesse sein. Ich möchte Häufigkeiten und Verteilungen ansehen. 
+  Namen von Heiligen finden, auf Häufigkeit/Seltenheit, Männer/Frauen etc. untersuchen. "Top 10" zusammenstellen. Mit Geodaten sichbar machen.
   
 * **Einschätzung von Aufwand/Ertrag vor Beginn des Projektes**
-  ????????? (Kann ich nicht abschätzen.)  Für mich ist der Aufwand gross. Lernen lernen lernen
+  Für mich ist der Aufwand in jeden Fall gross, weil ich erst Erfahrungen sammle. 
   
 * **Bezeichnung des Knackpunkts des Projektes**
   Technische Herausforderungen.
   
 * **Kurze Zusammenfassung des Gesprächs mit einer Briefing Person**
-  sdttttjssj ?????????
+  _Thomas Widmer, Schweizer Familie_
+  Auswertung von Heilgennamen bei Orts-, Flur-, Gebäudenamen etc. Die beliebtesten, häufigsten, seltensten Namen als Liste, Dastellung auf Karte. Kleine Geschichte in der Kategorie "Unnützes Wissen".
   
 * **Datensatz** 
     _Bitte herunterladen. Der Datensatz ist zu gross, um ihn im Repository zu speichern._
@@ -36,23 +40,23 @@
       swissNAMES3D_PKT.shx
   
   
-* **Programmiercode** ortsnamen_swisstopo_geopandas
+* **Programmiercode** xxxxxxxxxxxxxx xxxxxxxx xxxxxxxxxxxx
 
-* **Arbeitsprotokoll (Was hast du wann weshalb gemacht?)**
+* **Arbeitsprotokoll (Nicht fulltime)**
   
-  * Woche 01/20: Themen/Daten ansehen.
+  * Woche 01/20: Daten ansehen / Themen überlegen.
   
-  * Woche 02/20: Letzter Kurstag. Repo für Abschluss ertstellen. Themen/Daten ansehen.
+  * Woche 02/20: Letzter Kurstag. Repo für Abschluss ertstellen. Daten ansehen / Themen überlegen.
   
-  * Woche 03/20: **ortsnamen.ch**. Versuche, die Daten zu scrapen. Neue Daten von Swisstopo.
+  * Woche 03/20: **ortsnamen.ch**: Verschiedene Versuche, die Daten zu scrapen. Gescheitert. Für meinem Wissensstand zu kompliziert, wenn überhaupt möglich. Neue Daten von **Swisstopo**, Datensatz heruntergeladen.
   
-  * Woche 04/20: Bessprechung mit Barnaby wegen grosser Datenmenge und Zusammenarbeit mit Journalisten. Exploring and plotting.
+  * Woche 04/20: Besprechung mit Barnaby wegen grosser Datenmenge und Zusammenarbeit mit Journalisten. Exploring, plotting.
   
-  * Woche 5/20: kgkjgk jgkjgkjgkj gkjhgkjhg kjhhh jhhjj ljbj hhj khbjk jhh
+  * Woche 05/20: Besprechung Thomas Widmer, Festlegung Thema "Heligennamen". Exploring, plotting.
   
-  * Woche 6/20: kgkjgk jgkjgkjgkj gkjhgkjhg kjhhh jhhjj ljbj hhj khbjk jhh
+  * Woche 06/20: Besprechung Thomas Widmer, Daten ungeeignet. Dokumentation des Projekts.
   
-  * Woche 7/20: Abgabe
+  * Woche 07/20: Dokumentation des Projekts. Abgabe.
 
   
 * **Endprodukt, Skizze des Vorgehens oder Protokoll des Scheiterns**
@@ -65,3 +69,7 @@
 hhh jhhjj ljbj hhj khbjk jhhjk g kj jkjjkgkjgk jgkjgkjgkj gkjhgkjhg kjhhh jhhjj ljbj hhj khbjk jhhjk g kj jkjjkgkjgk jgkjgkjgkj gkjhgkjhg kjhhh jhhjj ljbj hhj khbjk jhhjk g kj jkjjkgkjgk jgkjgkjgkj gkjhgkjhg kjhhh jhhjj ljbj hhj khbjk jhhjk g kj
 
 jkjjkgkjgk jgkjgkjgkj gkjhgkjhg kjhhh jhhjj ljbj hhj khbjk jhhjk g kj jkjjkgkjgk jgkjgkjgkj gkjhgkjhg kjhhh jhhjj ljbj hhj khbjk jhhjk g kj jkjjkgkjgk jgkjgkjgkj gkjhgkjhg kjhhh jhhjj ljbj hhj khbjk jhhjk g kj jkjjkgkjgk jgkjgkjgkj gkjhgkjhg kjhhh jhhjj ljbj hhj khbjk jhhjk g kj jkjjkgkjgk jgkjgkjgkj gkjhgkjhg kjhhh jhhjj ljbj hhj khbjk jhhjk g kj jkjjkgkjgk jgkjgkjgkj gkjhgkjhg kjhhh jhhjj ljbj hhj khbjk jhhjk g kj jkjjkgkjgk jgkjgkjgkj gkjhgkjhg kj
+
+
+![SPIDER](screenshots/picturename)
+
