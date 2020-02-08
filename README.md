@@ -6,7 +6,7 @@
   ![ ](spider.png)
   
 * **Ausgangsthese**
-  Nach Beratung mit Thomas Widmer (Schweizer Familie): Namen von Heiligen in Orts-, Flur-, Gebäudenamen usw. finden und auf Häufigkeit/Seltenheit, Männer/Frauen etc. untersuchen. Eine Art Ranking zusammenstellen, in Grafiken oder auf Karte grafisch darstellen.
+  Nach Beratung mit Thomas Widmer (Schweizer Familie): Namen von Heiligen in Orts-, Flur-, Gebäudenamen usw. finden und auf Häufigkeit/Seltenheit, Männer/Frauen etc. untersuchen. Eine Art Ranking erstellen, in Grafiken oder auf Karte grafisch darstellen.
   
 * **Einschätzung von Aufwand/Ertrag vor Beginn des Projektes**
   Für mich ist der Aufwand in jeden Fall gross, weil ich erst Erfahrungen sammle. 
