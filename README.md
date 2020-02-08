@@ -4,17 +4,17 @@
   Spannende Website **ortsnamen.ch**. Mit den Daten könnte man ein Thema entwickeln, das von allgemeinem Interesse sein kann. Ich möchte Häufigkeiten und Verteilungen ansehen. 
   
 * **Ausgangsthese**
-  Namen von Heiligen finden, auf Häufigkeit/Seltenheit, Männer/Frauen etc. untersuchen. "Top 10" zusammenstellen. Mit Geodaten sichbar machen.
+  Nach Beratung mit Thomas Widmer (Schweizer Familie): Namen von Heiligen in Orts-, Flur-, Gebäudenamen usw. finden und auf Häufigkeit/Seltenheit, Männer/Frauen etc. untersuchen. Eine Art Ranking zusammenstellen, in Grafiken oder auf Karte grafisch darstellen.
   
 * **Einschätzung von Aufwand/Ertrag vor Beginn des Projektes**
   Für mich ist der Aufwand in jeden Fall gross, weil ich erst Erfahrungen sammle. 
   
 * **Bezeichnung des Knackpunkts des Projektes**
-  Technische Herausforderungen.
+  Technische Herausforderungen. 
   
 * **Kurze Zusammenfassung des Gesprächs mit einer Briefing Person**
   _Thomas Widmer, Schweizer Familie_
-  Auswertung von Heilgennamen bei Orts-, Flur-, Gebäudenamen etc. Die beliebtesten, häufigsten, seltensten Namen als Liste, Dastellung auf Karte. Kleine Geschichte in der Kategorie "Unnützes Wissen".
+  Auswertung von Heilgennamen in Orts-, Flur-, Gebäudenamen etc. Kleine unterhaltsame Geschichte in der Kategorie "Unnützes Wissen".
   
 * **Datensatz** 
     _Bitte herunterladen. Der Datensatz ist zu gross, um ihn im Repository zu speichern._
@@ -48,19 +48,23 @@
   
   * Woche 02/20: Letzter Kurstag. Repo für Abschluss ertstellen. Daten ansehen / Themen überlegen.
   
-  * Woche 03/20: **ortsnamen.ch**: Verschiedene Versuche, die Daten zu scrapen. Gescheitert. Für meinem Wissensstand zu kompliziert, wenn überhaupt möglich. Neue Daten von **Swisstopo**, Datensatz heruntergeladen.
+  * Woche 03/20: **ortsnamen.ch**: Verschiedene Versuche, die Daten zu scrapen. Gescheitert. Für meinem Wissensstand zu kompliziert, wenn überhaupt möglich. Neuer Versuch mit Daten von **Swisstopo** "swissNAMES3D", weil ortsnamen.ch darauf basiert. Datensatz heruntergeladen.
   
   * Woche 04/20: Besprechung mit Barnaby wegen grosser Datenmenge und Zusammenarbeit mit Journalisten. Exploring, plotting.
   
   * Woche 05/20: Besprechung Thomas Widmer, Festlegung Thema "Heligennamen". Exploring, plotting.
   
-  * Woche 06/20: Besprechung Thomas Widmer, Daten ungeeignet. Dokumentation des Projekts.
+  * Woche 06/20: Besprechung Thomas Widmer, Daten nicht ausreichend, ungeeignet. Dokumentation des Projekts.
   
   * Woche 07/20: Dokumentation des Projekts. Abgabe.
 
   
 * **Endprodukt, Skizze des Vorgehens oder Protokoll des Scheiterns**
   Zeitaufwand gross. Ich wusste, dass ich viel Zeit benötige. Lernprozess. Technisches Verständnis für meinen Beruf und weitere Projekte.
+  
+  Versuch Scraping
+  Neuer Datensatz, exploring
+  Fazit: Daten überrschaschend unvollständig und damit nicht aussagekräftig
   
   
   
