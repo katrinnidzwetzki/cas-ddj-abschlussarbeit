@@ -62,7 +62,7 @@
 
   
 * **Protokoll des Scheiterns**
-Zeitaufwand war gross. Ich wusste, dass ich viel Zeit benötige. Für mich war der Lernprozess wichtig, technisches Verständnis für meinen Beruf und weitere Projekte zu sammeln.
+Zeitaufwand war gross. Ich wusste, dass ich viel Zeit benötige. Für mich war der Lernprozess wichtig, um technisches Verständnis für meinen Beruf und weitere Projekte zu sammeln.
   
   Verschiedene Versuche, die Daten zu scrapen sind gescheitert. Für meinem Wissensstand ist es zu kompliziert, wenn es überhaupt möglich ist. [[Seit meinen ersten Versuchen im Januar wurde die Website verändert, sodass ich die Wege kaum noch nachvollziehen kann.]] 
    Neuer Versuch mit Daten von **Swisstopo** "swissNAMES3D", weil ortsnamen.ch darauf basiert. Datensatz heruntergeladen.
