@@ -61,12 +61,12 @@
   * Woche 07/20: Dokumentation des Projekts. Abgabe.
 
   
-* **Endprodukt, Skizze des Vorgehens oder Protokoll des Scheiterns**
+* **Protokoll des Scheiterns**
   Zeitaufwand gross. Ich wusste, dass ich viel Zeit benötige. Lernprozess. Technisches Verständnis für meinen Beruf und weitere Projekte.
   
   Versuch Scraping
   Neuer Datensatz, exploring
-  Fazit: Daten überrschaschend unvollständig und damit nicht aussagekräftig
+  **Fazit: Dieser Datensatz von Swisstopo ist überrschaschend unvollständig und damit nicht aussagekräftig.**
   
   
   
