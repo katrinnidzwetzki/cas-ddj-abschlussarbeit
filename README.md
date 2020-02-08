@@ -2,7 +2,7 @@
 
 * **Idee**
   Spannende Website **ortsnamen.ch**. Mit den Daten könnte man ein Thema entwickeln, das von allgemeinem Interesse sein kann. Ich möchte Häufigkeiten und Verteilungen ansehen. 
- * **Spider**
+
   ![ ](spider.png)
   
 * **Ausgangsthese**
