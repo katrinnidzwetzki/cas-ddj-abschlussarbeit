@@ -2,6 +2,8 @@
 
 * **Idee**
   Spannende Website **ortsnamen.ch**. Mit den Daten könnte man ein Thema entwickeln, das von allgemeinem Interesse sein kann. Ich möchte Häufigkeiten und Verteilungen ansehen. 
+ * **Spider**
+  ![SPIDER](screenshots/picturename)
   
 * **Ausgangsthese**
   Nach Beratung mit Thomas Widmer (Schweizer Familie): Namen von Heiligen in Orts-, Flur-, Gebäudenamen usw. finden und auf Häufigkeit/Seltenheit, Männer/Frauen etc. untersuchen. Eine Art Ranking zusammenstellen, in Grafiken oder auf Karte grafisch darstellen.
