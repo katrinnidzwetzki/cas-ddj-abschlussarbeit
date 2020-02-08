@@ -9,7 +9,7 @@
   Nach Beratung mit Thomas Widmer (Schweizer Familie): Namen von Heiligen in Orts-, Flur-, Gebäudenamen usw. finden und auf Häufigkeit/Seltenheit, Männer/Frauen etc. untersuchen. Eine Art Ranking erstellen, in Grafiken oder auf Karte grafisch darstellen.
   
 * **Einschätzung von Aufwand/Ertrag vor Beginn des Projektes**
-  Für mich ist der Aufwand in jeden Fall gross, weil ich erst Erfahrungen sammle. 
+  Für mich ist der Aufwand in jeden Fall gross, weil ich am Anfang stehe und Erfahrungen sammle. 
   
 * **Bezeichnung des Knackpunkts des Projektes**
   Technische Herausforderungen. 
