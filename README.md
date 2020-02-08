@@ -7,16 +7,21 @@
   ![ ](spider.png)
   
 * **Ausgangsthese**
+  
   Nach Beratung mit Thomas Widmer (Schweizer Familie): Namen von Heiligen in Orts-, Flur-, Gebäudenamen usw. finden und auf Häufigkeit/Seltenheit, Männer/Frauen etc. untersuchen. Eine Art Ranking erstellen, in Grafiken oder auf Karte grafisch darstellen.
   
 * **Einschätzung von Aufwand/Ertrag vor Beginn des Projektes**
+  
   Für mich ist der Aufwand in jeden Fall gross, weil ich am Anfang stehe und Erfahrungen sammle. Keine realen Bedingungen.
   
 * **Bezeichnung des Knackpunkts des Projektes**
+  
   Technische Herausforderungen. 
   
 * **Kurze Zusammenfassung des Gesprächs mit einer Briefing Person**
+  
   _Thomas Widmer, Schweizer Familie_
+  
   Thema "Beliebteste Heiligennamnen". Kleine unterhaltsame Geschichte in der Kategorie "Unnützes Wissen". Eventuell mit Grafiken, Karten ergänzt.
   
 * **Datensatz** 
@@ -43,7 +48,9 @@
       swissNAMES3D_PKT.shx
   
   
-* **Programmiercode** xxxxxxxxxxxxxx xxxxxxxx xxxxxxxxxxxx
+* **Programmiercode** 
+
+xxxxxxxxxxxxxx xxxxxxxx xxxxxxxxxxxx
 
 * **Arbeitsprotokoll (Nicht fulltime)**
   
@@ -63,6 +70,7 @@
 
   
 * **Protokoll des Scheiterns**
+
 Zeitaufwand war gross. Ich wusste, dass ich viel Zeit benötige. Für mich war der Lernprozess wichtig, um technisches Verständnis für meinen Beruf und weitere Projekte zu sammeln.
   
   Verschiedene Versuche, die Daten zu scrapen sind gescheitert. Für meinem Wissensstand ist es zu kompliziert, wenn es überhaupt möglich ist. [[Seit meinen ersten Versuchen im Januar wurde die Website verändert, sodass ich die Wege kaum noch nachvollziehen kann.]] 
@@ -76,6 +84,7 @@ Zeitaufwand war gross. Ich wusste, dass ich viel Zeit benötige. Für mich war d
   
   
 ## jjhjjkgjkjj
+
 hhh jhhjj ljbj hhj khbjk jhhjk g kj jkjjkgkjgk jgkjgkjgkj gkjhgkjhg kjhhh jhhjj ljbj hhj khbjk jhhjk g kj jkjjkgkjgk jgkjgkjgkj gkjhgkjhg kjhhh jhhjj ljbj hhj khbjk jhhjk g kj jkjjkgkjgk jgkjgkjgkj gkjhgkjhg kjhhh jhhjj ljbj hhj khbjk jhhjk g kj
 
 jkjjkgkjgk jgkjgkjgkj gkjhgkjhg kjhhh jhhjj ljbj hhj khbjk jhhjk g kj jkjjkgkjgk jgkjgkjgkj gkjhgkjhg kjhhh jhhjj ljbj hhj khbjk jhhjk g kj jkjjkgkjgk jgkjgkjgkj gkjhgkjhg kjhhh jhhjj ljbj hhj khbjk jhhjk g kj jkjjkgkjgk jgkjgkjgkj gkjhgkjhg kjhhh jhhjj ljbj hhj khbjk jhhjk g kj jkjjkgkjgk jgkjgkjgkj gkjhgkjhg kjhhh jhhjj ljbj hhj khbjk jhhjk g kj jkjjkgkjgk jgkjgkjgkj gkjhgkjhg kjhhh jhhjj ljbj hhj khbjk jhhjk g kj jkjjkgkjgk jgkjgkjgkj gkjhgkjhg kj
