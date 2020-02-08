@@ -50,7 +50,7 @@
   
   * Woche 02/20: Letzter Kurstag. Repo für Abschluss ertstellt. Daten ansehen / Themen überlegen.
   
-  * Woche 03/20: **ortsnamen.ch**: Verschiedene Versuche, die Daten zu scrapen. Gescheitert. Für meinem Wissensstand zu kompliziert, wenn überhaupt möglich. [[Seit meinen ersten Versuchen im Januar wurde die Website verändert, sodass ich die Wege kaum noch nachvollziehen kann.]] Neuer Versuch mit Daten von **Swisstopo** "swissNAMES3D", weil ortsnamen.ch darauf basiert. Datensatz heruntergeladen.
+  * Woche 03/20: **ortsnamen.ch**: Verschiedene Versuche, die Daten zu scrapen. [[Seit meinen ersten Versuchen im Januar wurde die Website verändert, sodass ich die Wege kaum noch nachvollziehen kann.]] Neuer Versuch mit Daten von **Swisstopo** "swissNAMES3D", weil ortsnamen.ch darauf basiert.
   
   * Woche 04/20: Besprechung mit Barnaby wegen grosser Datenmenge und Zusammenarbeit mit Journalisten. Exploring, plotting.
   
@@ -62,9 +62,12 @@
 
   
 * **Protokoll des Scheiterns**
-  Zeitaufwand gross. Ich wusste, dass ich viel Zeit benötige. Lernprozess. Technisches Verständnis für meinen Beruf und weitere Projekte.
+Zeitaufwand war gross. Ich wusste, dass ich viel Zeit benötige. Für mich war der Lernprozess wichtig, technisches Verständnis für meinen Beruf und weitere Projekte zu sammeln.
   
-  Versuch Scraping
+Verschiedene Versuche, die Daten zu scrapen sind gescheitert. Für meinem Wissensstand ist es zu kompliziert, wenn es überhaupt möglich ist. [[Seit meinen ersten Versuchen im Januar wurde die Website verändert, sodass ich die Wege kaum noch nachvollziehen kann.]] 
+  Neuer Versuch mit Daten von **Swisstopo** "swissNAMES3D", weil ortsnamen.ch darauf basiert. Datensatz heruntergeladen.
+  
+Versuch Scraping
   Neuer Datensatz, exploring
   **Fazit: Dieser Datensatz von Swisstopo ist überrschaschend unvollständig und damit nicht aussagekräftig.**
   
