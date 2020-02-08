@@ -14,7 +14,7 @@
   
 * **Kurze Zusammenfassung des Gesprächs mit einer Briefing Person**
   _Thomas Widmer, Schweizer Familie_
-  Auswertung von Heilgennamen in Orts-, Flur-, Gebäudenamen etc. Kleine unterhaltsame Geschichte in der Kategorie "Unnützes Wissen".
+  Thema "Beliebteste Heiligennamnen". Kleine unterhaltsame Geschichte in der Kategorie "Unnützes Wissen". Eventuell mit Grafiken, Karten ergänzt.
   
 * **Datensatz** 
     _Bitte herunterladen. Der Datensatz ist zu gross, um ihn im Repository zu speichern._
@@ -46,9 +46,9 @@
   
   * Woche 01/20: Daten ansehen / Themen überlegen.
   
-  * Woche 02/20: Letzter Kurstag. Repo für Abschluss ertstellen. Daten ansehen / Themen überlegen.
+  * Woche 02/20: Letzter Kurstag. Repo für Abschluss ertstellt. Daten ansehen / Themen überlegen.
   
-  * Woche 03/20: **ortsnamen.ch**: Verschiedene Versuche, die Daten zu scrapen. Gescheitert. Für meinem Wissensstand zu kompliziert, wenn überhaupt möglich. Neuer Versuch mit Daten von **Swisstopo** "swissNAMES3D", weil ortsnamen.ch darauf basiert. Datensatz heruntergeladen.
+  * Woche 03/20: **ortsnamen.ch**: Verschiedene Versuche, die Daten zu scrapen. Gescheitert. Für meinem Wissensstand zu kompliziert, wenn überhaupt möglich. [Seit meinen ersten Versuchen im Januar wurde die Website verändert, sodass ich die Wege kaum noch nachvollziehen kann.] Neuer Versuch mit Daten von **Swisstopo** "swissNAMES3D", weil ortsnamen.ch darauf basiert. Datensatz heruntergeladen.
   
   * Woche 04/20: Besprechung mit Barnaby wegen grosser Datenmenge und Zusammenarbeit mit Journalisten. Exploring, plotting.
   
