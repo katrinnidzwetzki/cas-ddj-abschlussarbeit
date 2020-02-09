@@ -64,26 +64,26 @@
   
   * Woche 02/20: Letzter Kurstag. Repo für Abschluss ertstellt. Daten ansehen / Themen überlegen.
   
-  * Woche 03/20: **ortsnamen.ch**: Verschiedene Versuche, die Daten zu scrapen. Funktioniert nicht. Neuer Versuch mit Daten von **Swisstopo**, weil ortsnamen.ch darauf basiert.
+  * Woche 03/20: Verschiedene Versuche, die Daten von "ortsnamen.ch" zu scrapen. Funktioniert nicht. Neuer Versuch mit Daten von Swisstopo-Daten, weil ortsnamen.ch darauf basiert.
   
   * Woche 04/20: Besprechung mit Barnaby wegen grosser Datenmenge und Zusammenarbeit mit Journalisten. Exploring, plotting.
   
   * Woche 05/20: Besprechung Thomas Widmer, Festlegung Thema "Heligennamen". Exploring, plotting.
   
-  * Woche 06/20: Besprechung Thomas Widmer, Daten nicht ausreichend, nicht aussagekräftig. Dokumentation des Projekts.
+  * Woche 06/20: Besprechung Thomas Widmer, Daten nicht ausreichend, nicht aussagekräftig. Überarbeiten und Beschreiben der Codes, Dokumentation des Projekts.
   
   * Woche 07/20: Dokumentation des Projekts. Abgabe.
 
   
 * **Protokoll des Projekts**
 
-  Ich wusste, dass ich mehr Zeit benötigen würde, als unter realistischen Bedingungen. Für mich war der Lernprozess wichtig, um technisches Verständnis für weitere Projekte zu sammeln. **xxx**Einfluss auf Möglichkeiten in meinen Beruf.
+  Ich wusste, dass ich mehr Zeit benötigen würde, als unter realistischen Bedingungen. Für mich war der Lernprozess wichtig, um technisches Verständnis für weitere Projekte zu sammeln. **xxx kurs**Einfluss auf Möglichkeiten in meinen Beruf.
   
   Verschiedene Versuche mit Requests und Selenium, die Daten von "ortsnamen.ch" zu scrapen sind gescheitert. Für meinem Wissensstand ist es zu kompliziert, wenn es überhaupt möglich ist. [[Seit meinen Versuchen im Januar wurde die Website verändert, sodass ich die Wege kaum noch nachvollziehen kann.]] Die Versuche liegen im Odner "versuch_scraping_ortsnamen.ch".
    
-   "ortsnamen.ch" basiert auf Daten von Swisstopo. Neuer Versuch mit Daten von Swisstopo, "swissNAMES3D". Datensatz heruntergeladen. Beim Untersuchen der Daten musste ich feststellen, dass sie überraschend unvollständig sind. Das hätte ich bei der Quelle und der Datenmenge nicht vermutet.
+   "ortsnamen.ch" basiert auf Daten von Swisstopo. Neuer Versuch mit "swissNAMES3D". Datensatz heruntergeladen. Beim Untersuchen der Daten musste ich feststellen, dass sie überraschend unvollständig sind. Das hätte ich bei der Quelle und der Datenmenge nicht vermutet.
    
-   Ein Beispiel: Im Kanton ZH werden nur drei Namen angezeigt, die mit "St. " beginnen, obwohl es allein in der Stadt Zürich diverse Kirchen mit dem Namensanfang gibt.
+   Ein Beispiel: Im Kanton ZH werden nur drei Namen angezeigt, die mit "St. " beginnen, obwohl es allein in der Stadt Zürich diverse Kirchen mit diesem Namensanfang gibt.
   
   **Fazit: Dieser Datensatz von Swisstopo ist überrschaschend unvollständig und damit nicht aussagekräftig für das Thema.**
   
