@@ -8,11 +8,11 @@
   
 * **Ausgangsthese**
   
-  Nach Beratung mit Thomas Widmer (Schweizer Familie): Namen von Heiligen in Orts-, Flur-, Gebäudenamen usw. finden und auf Häufigkeit/Seltenheit, Männer/Frauen etc. untersuchen. Eine Art Ranking erstellen, in Grafiken oder auf Karte grafisch darstellen.
+  Nach Beratung mit Thomas Widmer (Schweizer Familie): Namen von Heiligen in Orts-, Flur-, Gebäudenamen usw. finden und auf Häufigkeit/Seltenheit, Männer/Frauen etc. untersuchen. Eventuell auf den deutschsprachigen Bereich beschränkt, damit wir . Eine Art Ranking erstellen, in Grafiken oder auf Karte grafisch darstellen.
   
 * **Einschätzung von Aufwand/Ertrag vor Beginn des Projektes**
   
-  Für mich ist der Aufwand in jeden Fall gross, weil ich am Anfang stehe und Erfahrungen sammle. Keine realen Bedingungen.
+  Für mich ist der Aufwand in jeden Fall gross, weil ich am Anfang mit Daten stehe und Erfahrungen sammle. Keine realen Bedingungen.
   
 * **Bezeichnung des Knackpunkts des Projektes**
   
@@ -22,7 +22,7 @@
   
   _Thomas Widmer, Schweizer Familie_
   
-  Thema "Beliebteste Heiligennamnen". Kleine unterhaltsame Geschichte in der Kategorie "Unnützes Wissen". Eventuell mit Grafiken, Karten ergänzt.
+  Kleine unterhaltsame Geschichte zum Thema "Beliebteste Heiligennamen" in der Kategorie "Unnützes Wissen". Eventuell mit Grafiken, Karten ergänzt.
   
 * **Datensatz** 
     _Bitte herunterladen. Der Datensatz ist zu gross, um ihn im Repository zu speichern._
@@ -48,9 +48,9 @@
       swissNAMES3D_PKT.shx
   
   
-* **Programmiercode** 
+* **Programmiercodes** 
 
-  xxxxxxxxxxxxxx xxxxxxxx xxxxxxxxxxxx
+  01_ortsnamen_exploring_data.ipynb, 02_ortsnamen_plotting.ipynb, 03_ortsnamen_queries.ipynb, 04_ortsnamen_heiligennamen.ipynb
 
 * **Arbeitsprotokoll (Nicht fulltime)**
   
@@ -58,13 +58,13 @@
   
   * Woche 02/20: Letzter Kurstag. Repo für Abschluss ertstellt. Daten ansehen / Themen überlegen.
   
-  * Woche 03/20: **ortsnamen.ch**: Verschiedene Versuche, die Daten zu scrapen. [[Seit meinen ersten Versuchen im Januar wurde die Website verändert, sodass ich die Wege kaum noch nachvollziehen kann.]] Neuer Versuch mit Daten von **Swisstopo** "swissNAMES3D", weil ortsnamen.ch darauf basiert.
+  * Woche 03/20: **ortsnamen.ch**: Verschiedene Versuche, die Daten zu scrapen. Funktioniert nicht. Neuer Versuch mit Daten von **Swisstopo**, weil ortsnamen.ch darauf basiert.
   
   * Woche 04/20: Besprechung mit Barnaby wegen grosser Datenmenge und Zusammenarbeit mit Journalisten. Exploring, plotting.
   
   * Woche 05/20: Besprechung Thomas Widmer, Festlegung Thema "Heligennamen". Exploring, plotting.
   
-  * Woche 06/20: Besprechung Thomas Widmer, Daten nicht ausreichend, ungeeignet. Dokumentation des Projekts.
+  * Woche 06/20: Besprechung Thomas Widmer, Daten nicht ausreichend, nicht aussagekräftig. Dokumentation des Projekts.
   
   * Woche 07/20: Dokumentation des Projekts. Abgabe.
 
@@ -73,10 +73,11 @@
 
   Zeitaufwand war gross. Ich wusste, dass ich viel Zeit benötige. Für mich war der Lernprozess wichtig, um technisches Verständnis für weitere Projekte zu sammeln. xxxx meinen Beruf und xxxx
   
-  Verschiedene Versuche, die Daten zu scrapen sind gescheitert. Für meinem Wissensstand ist es zu kompliziert, wenn es überhaupt möglich ist. [[Seit meinen ersten Versuchen im Januar wurde die Website verändert, sodass ich die Wege kaum noch nachvollziehen kann.]] 
-   Neuer Versuch mit Daten von **Swisstopo** "swissNAMES3D", weil ortsnamen.ch darauf basiert. Datensatz heruntergeladen.
+  Verschiedene Versuche, die Daten zu scrapen sind gescheitert. Für meinem Wissensstand ist es zu kompliziert, wenn es überhaupt möglich ist. [[Seit meinen ersten Versuchen im Januar wurde die Website verändert, sodass ich die Wege kaum noch nachvollziehen kann.]] Versuche siehe Odner "versuch_scraping_ortsnamen.ch".
+   
+   Neuer Versuch mit Daten von **Swisstopo** "swissNAMES3D", weil ortsnamen.ch darauf basiert. Datensatz heruntergeladen. Beim Untersuchen der Daten musste ich festestellen, dass sie überraschend unvollständig sind und somit nicht aussagekräftig. Das hätte ich bei der Quelle und Datenmenge nicht vermutet.
   
-  Versuch Scraping
+ 
   Neuer Datensatz, exploring
   **Fazit: Dieser Datensatz von Swisstopo ist überrschaschend unvollständig und damit nicht aussagekräftig.**
   
