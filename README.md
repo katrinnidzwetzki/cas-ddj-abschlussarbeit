@@ -79,11 +79,13 @@
 
   Ich wusste, dass ich mehr Zeit benötigen würde, als unter realistischen Bedingungen. Für mich war der Lernprozess wichtig, um technisches Verständnis für weitere Projekte zu sammeln. **xxx**Einfluss auf Möglichkeiten in meinen Beruf.
   
-  Verschiedene Versuche, die Daten von "ortsnamen.ch" zu scrapen sind gescheitert. Für meinem Wissensstand ist es zu kompliziert, wenn es überhaupt möglich ist. [[Seit meinen Versuchen im Januar wurde die Website verändert, sodass ich die Wege kaum noch nachvollziehen kann.]] Die Versuche liegen im Odner "versuch_scraping_ortsnamen.ch".
+  Verschiedene Versuche mit Requests und Selenium, die Daten von "ortsnamen.ch" zu scrapen sind gescheitert. Für meinem Wissensstand ist es zu kompliziert, wenn es überhaupt möglich ist. [[Seit meinen Versuchen im Januar wurde die Website verändert, sodass ich die Wege kaum noch nachvollziehen kann.]] Die Versuche liegen im Odner "versuch_scraping_ortsnamen.ch".
    
-   "ortsnamen.ch" basiert basiert auf Daten von Swisstopo. Neuer Versuch mit Daten von Swisstopo, "swissNAMES3D". Datensatz heruntergeladen. Beim Untersuchen der Daten musste ich festestellen, dass sie überraschend unvollständig sind und somit nicht aussagekräftig für das Thema. Das hätte ich bei der Quelle und der Datenmenge nicht vermutet.
+   "ortsnamen.ch" basiert auf Daten von Swisstopo. Neuer Versuch mit Daten von Swisstopo, "swissNAMES3D". Datensatz heruntergeladen. Beim Untersuchen der Daten musste ich feststellen, dass sie überraschend unvollständig sind. Das hätte ich bei der Quelle und der Datenmenge nicht vermutet.
+   
+   Ein Beispiel: Im Kanton ZH werden nur drei Namen angezeigt, die mit "St. " beginnen, obwohl es allein in der Stadt Zürich diverse Kirchen mit dem Namensanfang gibt.
   
-  **Fazit: Dieser Datensatz von Swisstopo ist überrschaschend unvollständig und damit nicht aussagekräftig.**
+  **Fazit: Dieser Datensatz von Swisstopo ist überrschaschend unvollständig und damit nicht aussagekräftig für das Thema.**
   
   
   
