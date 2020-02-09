@@ -8,7 +8,7 @@
   
 * **Ausgangsthese**
   
-  Nach Beratung mit Thomas Widmer (Schweizer Familie): Namen von Heiligen in Orts-, Flur-, Gebäudenamen usw. finden und auf Häufigkeit/Seltenheit, Männer/Frauen etc. untersuchen. Eventuell auf den deutschsprachigen Bereich beschränkt. Eine Art Ranking erstellen, in Grafiken oder auf Karte grafisch darstellen.
+  Nach Beratung mit Thomas Widmer, Schweizer Familie: Namen von Heiligen in Orts-, Flur-, Gebäudenamen usw. finden und auf Häufigkeit/Seltenheit, Männer/Frauen etc. untersuchen. Eventuell auf den deutschsprachigen Bereich beschränkt. Eine Art Ranking erstellen, in Grafiken oder auf Karte grafisch darstellen.
   
 * **Einschätzung von Aufwand/Ertrag vor Beginn des Projektes**
   
@@ -50,7 +50,13 @@
   
 * **Programmiercodes** 
 
-  01_ortsnamen_exploring_data.ipynb, 02_ortsnamen_plotting.ipynb, 03_ortsnamen_queries.ipynb, 04_ortsnamen_heiligennamen.ipynb
+  01_ortsnamen_exploring_data.ipynb
+  
+  02_ortsnamen_plotting.ipynb
+  
+  03_ortsnamen_queries.ipynb
+  
+  04_ortsnamen_heiligennamen.ipynb
 
 * **Arbeitsprotokoll (Nicht fulltime)**
   
@@ -69,13 +75,13 @@
   * Woche 07/20: Dokumentation des Projekts. Abgabe.
 
   
-* **Protokoll des Scheiterns**
+* **Protokoll des Projekts**
 
-  Der Zeitaufwand war unrealistisch gross. Ich wusste, dass ich viel Zeit benötigen würde. Für mich war der Lernprozess wichtig, um technisches Verständnis für weitere Projekte zu sammeln. xxxx meinen Beruf und xxxx
+  Ich wusste, dass ich mehr Zeit benötigen würde, als unter realistischen Bedingungen. Für mich war der Lernprozess wichtig, um technisches Verständnis für weitere Projekte zu sammeln. **xxx**Einfluss auf Möglichkeiten in meinen Beruf.
   
-  Verschiedene Versuche, die Daten von "ortsnamen.ch" zu scrapen sind gescheitert. Für meinem Wissensstand ist es zu kompliziert, wenn es überhaupt möglich ist. [[Seit meinen ersten Versuchen im Januar wurde die Website verändert, sodass ich die Wege kaum noch nachvollziehen kann.]] Versuche siehe Odner "versuch_scraping_ortsnamen.ch".
+  Verschiedene Versuche, die Daten von "ortsnamen.ch" zu scrapen sind gescheitert. Für meinem Wissensstand ist es zu kompliziert, wenn es überhaupt möglich ist. [[Seit meinen Versuchen im Januar wurde die Website verändert, sodass ich die Wege kaum noch nachvollziehen kann.]] Die Versuche liegen im Odner "versuch_scraping_ortsnamen.ch".
    
-   Neuer Versuch mit Daten von **Swisstopo** "swissNAMES3D", weil ortsnamen.ch darauf basiert. Datensatz heruntergeladen. Beim Untersuchen der Daten musste ich festestellen, dass sie überraschend unvollständig sind und somit nicht aussagekräftig. Das hätte ich bei der Quelle und Datenmenge nicht vermutet.
+   "ortsnamen.ch" basiert basiert auf Daten von Swisstopo. Neuer Versuch mit Daten von Swisstopo, "swissNAMES3D". Datensatz heruntergeladen. Beim Untersuchen der Daten musste ich festestellen, dass sie überraschend unvollständig sind und somit nicht aussagekräftig für das Thema. Das hätte ich bei der Quelle und der Datenmenge nicht vermutet.
   
   **Fazit: Dieser Datensatz von Swisstopo ist überrschaschend unvollständig und damit nicht aussagekräftig.**
   
