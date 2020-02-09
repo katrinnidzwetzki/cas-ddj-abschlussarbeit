@@ -71,14 +71,12 @@
   
 * **Protokoll des Scheiterns**
 
-  Zeitaufwand war gross. Ich wusste, dass ich viel Zeit benötige. Für mich war der Lernprozess wichtig, um technisches Verständnis für weitere Projekte zu sammeln. xxxx meinen Beruf und xxxx
+  Der Zeitaufwand war unrealistisch gross. Ich wusste, dass ich viel Zeit benötigen würde. Für mich war der Lernprozess wichtig, um technisches Verständnis für weitere Projekte zu sammeln. xxxx meinen Beruf und xxxx
   
-  Verschiedene Versuche, die Daten zu scrapen sind gescheitert. Für meinem Wissensstand ist es zu kompliziert, wenn es überhaupt möglich ist. [[Seit meinen ersten Versuchen im Januar wurde die Website verändert, sodass ich die Wege kaum noch nachvollziehen kann.]] Versuche siehe Odner "versuch_scraping_ortsnamen.ch".
+  Verschiedene Versuche, die Daten von "ortsnamen.ch" zu scrapen sind gescheitert. Für meinem Wissensstand ist es zu kompliziert, wenn es überhaupt möglich ist. [[Seit meinen ersten Versuchen im Januar wurde die Website verändert, sodass ich die Wege kaum noch nachvollziehen kann.]] Versuche siehe Odner "versuch_scraping_ortsnamen.ch".
    
    Neuer Versuch mit Daten von **Swisstopo** "swissNAMES3D", weil ortsnamen.ch darauf basiert. Datensatz heruntergeladen. Beim Untersuchen der Daten musste ich festestellen, dass sie überraschend unvollständig sind und somit nicht aussagekräftig. Das hätte ich bei der Quelle und Datenmenge nicht vermutet.
   
- 
-  Neuer Datensatz, exploring
   **Fazit: Dieser Datensatz von Swisstopo ist überrschaschend unvollständig und damit nicht aussagekräftig.**
   
   
@@ -93,5 +91,5 @@ jkjjkgkjgk jgkjgkjgkj gkjhgkjhg kjhhh jhhjj ljbj hhj khbjk jhhjk g kj jkjjkgkjgk
 
 
 
-![SPIDER](screenshots/picturename)
+#![SPIDER](screenshots/picturename)
 
