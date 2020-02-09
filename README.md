@@ -79,7 +79,7 @@
 
   * Ich wusste, dass ich mehr Zeit benötigen würde, als unter realistischen Bedingungen möglich wären. Für mich war der Lernprozess wichtig, um technisches Verständnis für weitere Projekte und Anwendungsmöglichkeiten in meinen Beruf zu sammeln.
   
-  Verschiedene Versuche mit Requests und Selenium, die Daten von "ortsnamen.ch" zu scrapen sind gescheitert. Für meinem Wissensstand ist es zu kompliziert, wenn es überhaupt möglich ist. [[Seit meinen Versuchen im Januar wurde die Website verändert, sodass ich die Wege kaum noch nachvollziehen kann.]] Die Versuche liegen im Odner "versuch_scraping_ortsnamen.ch".
+  Verschiedene Versuche mit Requests und Selenium, die Daten von "ortsnamen.ch" zu scrapen, sind gescheitert. Für meinem Wissensstand ist es zu kompliziert, wenn es überhaupt möglich ist. [[Seit meinen Versuchen im Januar wurde die Website verändert, sodass ich die Wege kaum noch nachvollziehen kann.]] Die Versuche liegen im Odner "versuch_scraping_ortsnamen.ch".
    
    "ortsnamen.ch" basiert auf Daten von Swisstopo, darum habe ich den Datensatz "swissNAMES3D" heruntergeladen. Beim Untersuchen der Daten musste ich feststellen, dass sie überraschend unvollständig sind, darum lohnte es sich nicht, tiefer in die Suche einzusteigen. 
    
@@ -87,8 +87,6 @@
    
    Dass die Daten nicht ausreichend sein würden, hätte ich bei der Quelle und der Menge nicht vermutet. Swisstopo schreibt: "SwissNAMES3D ist mit rund 400 000 georeferenzierten Einträgen die umfangreichste Sammlung von geografischen Namen der Schweiz. Dieser kostenlose Namendatensatz basiert auf einem einfachen Datenmodell und liefert für viele Anwendungen die ideale Datengrundlage."
    
-   
-  
   **Fazit: Dieser Datensatz von Swisstopo ist überrschaschend unvollständig und damit nicht aussagekräftig für das Thema.**
   
   
