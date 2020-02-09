@@ -12,7 +12,7 @@
   
 * **Einschätzung von Aufwand/Ertrag vor Beginn des Projektes**
   
-  Für mich ist der Aufwand in jeden Fall gross, weil ich am Anfang mit Daten stehe und Erfahrungen sammle. Keine realen Bedingungen.
+  Für mich ist der Aufwand in jeden Fall gross, weil ich am Anfang mit der Datenarbeit stehe und Erfahrungen sammle. Keine realen Bedingungen.
   
 * **Bezeichnung des Knackpunkts des Projektes**
   
@@ -22,7 +22,7 @@
   
   _Thomas Widmer, Schweizer Familie_
   
-  Kleine unterhaltsame Geschichte zum Thema "Beliebteste Heiligennamen" in der Kategorie "Unnützes Wissen". Eventuell mit Grafiken, Karten ergänzt.
+  Kleine unterhaltsame Geschichte zum Thema "Beliebteste Heilige" in der Kategorie "Unnützes Wissen". Eventuell mit Grafiken, Karten ergänzt.
   
 * **Datensatz** 
     _Bitte herunterladen. Der Datensatz ist zu gross, um ihn im Repository zu speichern._
@@ -66,7 +66,7 @@
   
   * Woche 03/20: Verschiedene Versuche, die Daten von "ortsnamen.ch" zu scrapen. Funktioniert nicht. Neuer Versuch mit Daten von Swisstopo-Daten, weil ortsnamen.ch darauf basiert.
   
-  * Woche 04/20: Besprechung mit Barnaby wegen grosser Datenmenge und Zusammenarbeit mit Journalisten. Exploring, plotting.
+  * Woche 04/20: Besprechung mit Barnaby wegen grosser Datenmenge und Zusammenarbeit mit einem Journalisten. Exploring, plotting.
   
   * Woche 05/20: Besprechung Thomas Widmer, Festlegung Thema "Heligennamen". Exploring, plotting.
   
