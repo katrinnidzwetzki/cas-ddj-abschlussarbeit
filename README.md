@@ -8,7 +8,7 @@
   
 * **Ausgangsthese**
   
-  Nach Beratung mit Thomas Widmer, Schweizer Familie: Namen von Heiligen in Orts-, Flur-, Gebäudenamen usw. finden und auf Häufigkeit/Seltenheit, Männer/Frauen etc. untersuchen. Eventuell auf den deutschsprachigen Bereich beschränkt. Eine Art Ranking erstellen, in Grafiken oder auf Karte grafisch darstellen.
+  Nach Beratung mit Thomas Widmer, Schweizer Familie: Namen von Heiligen in Orts-, Flur-, Gebäudenamen usw. finden und auf Häufigkeit/Seltenheit, Männer/Frauen etc. untersuchen. Eventuell auf den deutschsprachigen Bereich beschränken. Eine Art Ranking erstellen, in Grafiken oder auf Karte grafisch darstellen.
   
 * **Einschätzung von Aufwand/Ertrag vor Beginn des Projektes**
   
@@ -50,13 +50,13 @@
   
 * **Programmiercodes** 
 
-  01_ortsnamen_exploring_data.ipynb
+  01_swisstopo_exploring_data.ipynb
   
-  02_ortsnamen_plotting.ipynb
+  02_swisstopo_plotting.ipynb
   
-  03_ortsnamen_queries.ipynb
+  03_swisstopo_queries.ipynb
   
-  04_ortsnamen_heiligennamen.ipynb
+  04_swisstopo_heiligennamen.ipynb
 
 * **Arbeitsprotokoll (Nicht fulltime)**
   
