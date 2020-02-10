@@ -1,30 +1,30 @@
 # cas-ddj-abschlussarbeit
 
-* **Idee**
+**Idee**
 
   Spannende Website **ortsnamen.ch**. Mit den Daten könnte man ein Thema entwickeln, das von allgemeinem Interesse sein kann. Ich möchte Häufigkeiten und Verteilungen ansehen. 
 
   ![ ](spider-2.png)
   
-* **Ausgangsthese**
+**Ausgangsthese**
   
   Nach Beratung mit Thomas Widmer, Schweizer Familie: Namen von Heiligen in Orts-, Flur-, Gebäudenamen usw. finden und auf Häufigkeit/Seltenheit, Männer/Frauen etc. untersuchen. Eventuell auf den deutschsprachigen Bereich beschränken. Eine Art Ranking erstellen, in Grafiken oder auf Karte grafisch darstellen.
   
-* **Einschätzung von Aufwand/Ertrag vor Beginn des Projektes**
+**Einschätzung von Aufwand/Ertrag vor Beginn des Projektes**
   
   Für mich ist der Aufwand in jeden Fall gross, weil ich am Anfang mit der Datenarbeit stehe und Erfahrungen sammle. Keine realen Bedingungen.
   
-* **Bezeichnung des Knackpunkts des Projektes**
+**Bezeichnung des Knackpunkts des Projektes**
   
   Technische Herausforderungen. 
   
-* **Kurze Zusammenfassung des Gesprächs mit einer Briefing Person**
+**Kurze Zusammenfassung des Gesprächs mit einer Briefing Person**
   
   _Thomas Widmer, Schweizer Familie_
   
   Kleine unterhaltsame Geschichte zum Thema "Beliebteste Heilige" in der Kategorie "Unnützes Wissen". Eventuell mit Grafiken, Karten ergänzt.
   
-* **Datensatz** 
+**Datensatz** 
     _Bitte herunterladen. Der Datensatz ist zu gross, um ihn im Repository zu speichern._
     
   * https://drive.google.com/open?id=1kCYv7qOFqk_hldi7rKaBkZovVTyndVfP oder
@@ -48,7 +48,7 @@
       swissNAMES3D_PKT.shx
   
   
-* **Programmiercodes** 
+**Programmiercodes** 
 
   01_swisstopo_exploring_data.ipynb
   
@@ -58,7 +58,7 @@
   
   04_swisstopo_heiligennamen.ipynb
 
-* **Arbeitsprotokoll (Nicht fulltime)**
+**Arbeitsprotokoll (Nicht fulltime)**
   
   * Woche 01/20: Daten ansehen / Themen überlegen.
   
@@ -75,7 +75,7 @@
   * Woche 07/20: Dokumentation des Projekts. Abgabe.
 
   
-* **Protokoll des Projekts**
+**Protokoll des Projekts**
 
   * Ich wusste, dass ich mehr Zeit benötigen würde, als unter realistischen Bedingungen möglich wären. Für mich war der Lernprozess wichtig, um technisches Verständnis für weitere Projekte und Anwendungsmöglichkeiten in meinen Beruf zu sammeln.
   
@@ -87,7 +87,7 @@
    
    Dass die Daten nicht ausreichend sein würden, hätte ich bei der Quelle und der Menge nicht vermutet. Swisstopo schreibt: "SwissNAMES3D ist mit rund 400 000 georeferenzierten Einträgen die umfangreichste Sammlung von geografischen Namen der Schweiz. Dieser kostenlose Namendatensatz basiert auf einem einfachen Datenmodell und liefert für viele Anwendungen die ideale Datengrundlage."
    
-  **Fazit: Dieser Datensatz von Swisstopo ist überrschaschend unvollständig und damit nicht aussagekräftig für das Thema.**
+**Fazit: Dieser Datensatz von Swisstopo ist überrschaschend unvollständig und damit nicht aussagekräftig für das Thema.**
   
   
  
