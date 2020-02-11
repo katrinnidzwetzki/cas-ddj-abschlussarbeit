@@ -77,7 +77,7 @@
   
 **Protokoll des Projekts**
 
-  * Ich wusste, dass ich mehr Zeit benötigen würde, als unter realistischen Bedingungen möglich wären. Für mich war der Lernprozess wichtig, um technisches Verständnis für weitere Projekte und Anwendungsmöglichkeiten in meinen Beruf zu sammeln.
+  * Ich wusste, dass ich mehr Zeit benötigen würde, als unter realistischen Bedingungen möglich wäre. Für mich war der Lernprozess wichtig, um technisches Verständnis für weitere Projekte und Anwendungsmöglichkeiten in meinen Beruf zu sammeln.
   
   Verschiedene Versuche mit Requests und Selenium, die Daten von "ortsnamen.ch" zu scrapen, sind gescheitert. Für meinem Wissensstand ist es zu kompliziert, wenn es überhaupt möglich ist. [[Seit meinen Versuchen im Januar wurde die Website verändert, sodass ich die Wege kaum noch nachvollziehen kann.]] Die Versuche liegen im Ordner "versuch_scraping_ortsnamen.ch".
    
