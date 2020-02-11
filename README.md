@@ -62,7 +62,7 @@
   
   * Woche 01/20: Daten ansehen / Themen überlegen.
   
-  * Woche 02/20: Letzter Kurstag. Repo für Abschluss ertstellt. Daten ansehen / Themen überlegen.
+  * Woche 02/20: Letzter Kurstag. Repo für Abschluss erstellt. Daten ansehen / Themen überlegen.
   
   * Woche 03/20: Verschiedene Versuche, die Daten von "ortsnamen.ch" zu scrapen. Funktioniert nicht. Neuer Versuch mit Daten von Swisstopo-Daten, weil ortsnamen.ch darauf basiert.
   
