@@ -68,9 +68,9 @@
   
   * Woche 04/20: Besprechung mit Barnaby wegen grosser Datenmenge und Zusammenarbeit mit einem Journalisten. Exploring, plotting.
   
-  * Woche 05/20: Besprechung Thomas Widmer, Festlegung Thema "Heligennamen". Exploring, plotting.
+  * Woche 05/20: Besprechung Thomas Widmer, Festlegung Thema "Heiligennamen". Exploring, plotting.
   
-  * Woche 06/20: Besprechung Thomas Widmer, Daten nicht ausreichend, nicht aussagekräftig. Bereinigen und Beschreiben der Codes, Dokumentation des Projekts.
+  * Woche 06/20: Besprechung Thomas Widmer, Daten nicht ausreichend, nicht aussagekräftig genug. Bereinigen und Beschreiben der Codes, Dokumentation des Projekts.
   
   * Woche 07/20: Dokumentation des Projekts. Abgabe.
 
