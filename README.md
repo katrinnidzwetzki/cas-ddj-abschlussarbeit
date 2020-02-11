@@ -1,30 +1,30 @@
 # cas-ddj-abschlussarbeit
 
-* **Idee**
+**Idee**
 
   Spannende Website **ortsnamen.ch**. Mit den Daten könnte man ein Thema entwickeln, das von allgemeinem Interesse sein kann. Ich möchte Häufigkeiten und Verteilungen ansehen. 
 
   ![ ](spider-2.png)
   
-* **Ausgangsthese**
+**Ausgangsthese**
   
-  Nach Beratung mit Thomas Widmer, Schweizer Familie: Namen von Heiligen in Orts-, Flur-, Gebäudenamen usw. finden und auf Häufigkeit/Seltenheit, Männer/Frauen etc. untersuchen. Eventuell auf den deutschsprachigen Bereich beschränkt. Eine Art Ranking erstellen, in Grafiken oder auf Karte grafisch darstellen.
+  Nach Beratung mit Thomas Widmer, Schweizer Familie: Namen von Heiligen in Orts-, Flur-, Gebäudenamen usw. finden und auf Häufigkeit/Seltenheit, Männer/Frauen etc. untersuchen. Eventuell auf den deutschsprachigen Bereich beschränken. Eine Art Ranking erstellen, in Grafiken oder auf Karte grafisch darstellen.
   
-* **Einschätzung von Aufwand/Ertrag vor Beginn des Projektes**
+**Einschätzung von Aufwand/Ertrag vor Beginn des Projektes**
   
   Für mich ist der Aufwand in jeden Fall gross, weil ich am Anfang mit der Datenarbeit stehe und Erfahrungen sammle. Keine realen Bedingungen.
   
-* **Bezeichnung des Knackpunkts des Projektes**
+**Bezeichnung des Knackpunkts des Projektes**
   
   Technische Herausforderungen. 
   
-* **Kurze Zusammenfassung des Gesprächs mit einer Briefing Person**
+**Kurze Zusammenfassung des Gesprächs mit einer Briefing Person**
   
   _Thomas Widmer, Schweizer Familie_
   
   Kleine unterhaltsame Geschichte zum Thema "Beliebteste Heilige" in der Kategorie "Unnützes Wissen". Eventuell mit Grafiken, Karten ergänzt.
   
-* **Datensatz** 
+**Datensatz** 
     _Bitte herunterladen. Der Datensatz ist zu gross, um ihn im Repository zu speichern._
     
   * https://drive.google.com/open?id=1kCYv7qOFqk_hldi7rKaBkZovVTyndVfP oder
@@ -48,17 +48,17 @@
       swissNAMES3D_PKT.shx
   
   
-* **Programmiercodes** 
+**Programmiercodes** 
 
-  01_ortsnamen_exploring_data.ipynb
+  01_swisstopo_exploring_data.ipynb
   
-  02_ortsnamen_plotting.ipynb
+  02_swisstopo_plotting.ipynb
   
-  03_ortsnamen_queries.ipynb
+  03_swisstopo_queries.ipynb
   
-  04_ortsnamen_heiligennamen.ipynb
+  04_swisstopo_heiligennamen.ipynb
 
-* **Arbeitsprotokoll (Nicht fulltime)**
+**Arbeitsprotokoll (Nicht fulltime)**
   
   * Woche 01/20: Daten ansehen / Themen überlegen.
   
@@ -75,19 +75,19 @@
   * Woche 07/20: Dokumentation des Projekts. Abgabe.
 
   
-* **Protokoll des Projekts**
+**Protokoll des Projekts**
 
-  * Ich wusste, dass ich mehr Zeit benötigen würde, als unter realistischen Bedingungen möglich wären. Für mich war der Lernprozess wichtig, um technisches Verständnis für weitere Projekte und Anwendungsmöglichkeiten in meinen Beruf zu sammeln.
+  * Ich wusste, dass ich mehr Zeit benötigen würde, als unter realistischen Bedingungen möglich wäre. Für mich war der Lernprozess wichtig, um technisches Verständnis für weitere Projekte und Anwendungsmöglichkeiten in meinen Beruf zu sammeln.
   
-  Verschiedene Versuche mit Requests und Selenium, die Daten von "ortsnamen.ch" zu scrapen, sind gescheitert. Für meinem Wissensstand ist es zu kompliziert, wenn es überhaupt möglich ist. [[Seit meinen Versuchen im Januar wurde die Website verändert, sodass ich die Wege kaum noch nachvollziehen kann.]] Die Versuche liegen im Odner "versuch_scraping_ortsnamen.ch".
+  Verschiedene Versuche mit Requests und Selenium, die Daten von "ortsnamen.ch" zu scrapen, sind gescheitert. Für meinem Wissensstand ist es zu kompliziert, wenn es überhaupt möglich ist. [[Seit meinen Versuchen im Januar wurde die Website verändert, sodass ich die Wege kaum noch nachvollziehen kann.]] Die Versuche liegen im Ordner "versuch_scraping_ortsnamen.ch".
    
-   "ortsnamen.ch" basiert auf Daten von Swisstopo, darum habe ich den Datensatz "swissNAMES3D" heruntergeladen. Beim Untersuchen der Daten musste ich feststellen, dass sie überraschend unvollständig sind, darum lohnte es sich nicht, tiefer in die Suche einzusteigen. 
+   "ortsnamen.ch" basiert auf Daten von Swisstopo, darum habe ich den Datensatz "swissNAMES3D" heruntergeladen. Beim Untersuchen der Daten musste ich feststellen, dass sie überraschend unvollständig sind, darum lohnte es sich nicht, tiefer in die Suche einzusteigen. Ein Beispiel: Im Kanton ZH werden nur drei Namen angezeigt, die mit "St. " beginnen, obwohl es allein in der Stadt Zürich diverse Kirchen mit diesem Namensanfang gibt. Siehe Programmiercode 04. 
    
-   Ein Beispiel: Im Kanton ZH werden nur drei Namen angezeigt, die mit "St. " beginnen, obwohl es allein in der Stadt Zürich diverse Kirchen mit diesem Namensanfang gibt. Siehe Programmiercodes. 
+   Meine Vermutung ist, dass "ortsnamen.ch" eine grössere Datenmenge von Swisstopo zu Verfügung hat.
    
    Dass die Daten nicht ausreichend sein würden, hätte ich bei der Quelle und der Menge nicht vermutet. Swisstopo schreibt: "SwissNAMES3D ist mit rund 400 000 georeferenzierten Einträgen die umfangreichste Sammlung von geografischen Namen der Schweiz. Dieser kostenlose Namendatensatz basiert auf einem einfachen Datenmodell und liefert für viele Anwendungen die ideale Datengrundlage."
    
-  **Fazit: Dieser Datensatz von Swisstopo ist überrschaschend unvollständig und damit nicht aussagekräftig für das Thema.**
+**Fazit: Dieser Datensatz von Swisstopo ist überrschaschend unvollständig und damit nicht aussagekräftig für das Thema.**
   
   
  
